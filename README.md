@@ -2,6 +2,7 @@
 
 ###### changes
 22.01.02.v01
+
 	- https://github.com/dataScience-INHATC/kkk/blob/master/data/playReview_ScoreBoard_Rawdata.csv
 		- 2018~2021까지 play된 경기의 scoreboard 정보.
 	- 수집 방법
