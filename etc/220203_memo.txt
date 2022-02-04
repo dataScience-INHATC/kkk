@@ -1,0 +1,13 @@
+ㅁ GetBoxScoreScroll.json
+
+
+ㅁ GetScoreBoardScroll.json
+    ㅇ BaseInfo :: json에서 파싱한 rawData
+        - *G_ID, LE_ID, SR_ID, G_DT, SEASON_ID, HOME_NM, HOME_ID, AWAY_NM, AWAY_ID, S_NM, CROWD_CN, H_W_CN, H_L_CN, H_D_CN, A_W_CN, A_L_CN, A_D_CN, T_SCORE_CN, B_SCORE_CN, START_TM, END_TM, USE_TM, FULL_HOME_NM, FULL_AWAY_NM, H_INITIAL_LK, A_INITIAL_LK, table1, table2, table3, maxInning, checkScroll, code, msg
+    ㅇ ScoreBoard_tbl3 :: json에서 파싱한 rawData
+        - *G_ID, AWAY_R, AWAY_H, AWAY_E, AWAY_B, HOME_R, HOME_H, HOME_E, HOME_B
+        - *G_ID, AWAY_HOME, R, H, E, B
+    ㅅ Parkidx
+        - *PARK_NM, PARK_ID
+    ㅅ Teamidx
+        - *TEAM_CHAR, TEAM_ID

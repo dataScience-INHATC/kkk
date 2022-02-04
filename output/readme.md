@@ -1,0 +1,2 @@
+
+proc_ScoreBoard/proc_play_review.ipynb 수행결과
